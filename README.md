@@ -1,3 +1,17 @@
+# Dynamic Inventory Management Table
+
+**Dynamic Inventory Management Table** is a React.js-based application designed to make inventory management simple and efficient. The app features a dynamic and interactive table that allows users to manage their inventory seamlessly.
+
+## Features
+
+- **Add New Items**: Add new inventory items with details like name, category, and quantity.
+- **Edit or Delete Items**: Update existing inventory details or remove items as needed.
+- **Filter by Category**: Quickly filter items by category for easy navigation.
+- **Sort by Quantity**: Sort inventory items based on quantity for better prioritization.
+- **Highlight Low-Stock Items**: Items with a quantity below 10 are automatically highlighted, ensuring timely restocking.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
